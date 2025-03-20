@@ -10,6 +10,7 @@ public class Ejercicio1 {
         // TODO code application logic here
         System.out.println("hola");
         float 2.5f;
+        hola
     }
     
 }
