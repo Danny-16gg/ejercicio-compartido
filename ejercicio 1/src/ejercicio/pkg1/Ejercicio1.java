@@ -11,6 +11,7 @@ public class Ejercicio1 {
         System.out.println("hola");
         float 2.5f;
         hola
+                echo desde net
     }
     
 }
